@@ -1,3 +1,5 @@
+# **SUMMARY**
+
 Data analysis is the process of examining, cleaning, transforming, and modeling data with the goal of discovering useful information, drawing conclusions, and supporting informed decision making. Data analysis can include various techniques such as descriptive statistics, data visualization, machine learning, and data mining.
 
 The data analysis process begins with understanding the problem and identifying the questions to be answered. The relevant data is then collected, cleaned and prepared for analysis. Data is explored using descriptive statistics and visualization techniques to gain a full understanding of the data.
